@@ -4,7 +4,7 @@
 <img src="https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png" alt="img"/>
 
 #                                                                   💫 About Me:
-🌱 I’m currently learning React, Redux, SCSS, Framer-Motion<br>💬 Contact Me prajwalhg321@gmail.com
+🌱 I’m currently learning TypeScript, Framer-Motion<br>💬 Contact Me prajwalhg321@gmail.com
 
 
 #                                                                   💻 Tech Stack:
