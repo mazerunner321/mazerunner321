@@ -4,7 +4,7 @@
 <img src="https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png" alt="img"/>
 
 #                                                                   💫 About Me:
-🌱 I’m currently learning MongoDB, Nodejs (into backend in short)<br>💬 Contact Me prajwalhg321@gmail.com
+🌱 Thought learing was tough, I guess retaining it is tougher!..<br>💬 Contact Me prajwalhg321@gmail.com
 
 
 #                                                                   💻 Tech Stack:
