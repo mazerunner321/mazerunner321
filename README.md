@@ -4,7 +4,7 @@
 <img src="https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png" alt="img"/>
 
 #                                                                   💫 About Me:
-🌱 Thought learing was tough, I guess retaining it is tougher!..<br>💬 Contact Me prajwalhg321@gmail.com
+🌱 Thought learing was tough, I guess retaining it is tougher!..<br>💬 Contact Me prajwalhg321@gmail.com <br> 👨‍💻 All of my projects are available at https://mazerunner321.github.io/
 
 
 #                                                                   💻 Tech Stack:
