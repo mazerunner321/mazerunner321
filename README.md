@@ -12,7 +12,7 @@
 
 💬 Contact Me -> prajwalhg321@gmail.com 
 
-👨‍💻 All of my projects are available at https://mazerunner321.github.io/
+👨‍💻 All of my projects are available at -> https://mazerunner321.github.io/
 
 <h4>
   Passionate and an ambitious MERN stack developer proficient in HTML, CSS, and JavaScript, with expertise in React and Redux for building interactive and visually appealing user interfaces. Highly skilled in Node.js and Express.js to create robust backend APIs and server-side applications. Proficient in MongoDB and Mongoose for efficient database management.
