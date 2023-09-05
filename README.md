@@ -8,11 +8,6 @@
 <br/>
 
 # 💫 About Me:
-🌱 Thought learing was tough, I guess retaining it is tougher!..
-
-💬 Contact Me -> prajwalhg321@gmail.com 
-
-👨‍💻 All of my projects are available at -> https://mazerunner321.github.io/
 
 ---
 
@@ -22,6 +17,12 @@ A versatile developer who excels in delivering top-tier web solutions across the
 </h4>
 
 ---
+
+🌱 Thought learing was tough, I guess retaining it is tougher!..
+
+💬 Contact Me -> prajwalhg321@gmail.com 
+
+👨‍💻 All of my projects are available at -> https://mazerunner321.github.io/
 
 <br/>
 
