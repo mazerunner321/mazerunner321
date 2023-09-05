@@ -14,6 +14,7 @@
 <h4>
   Passionate and an ambitious MERN stack developer proficient in HTML, CSS, and JavaScript, with expertise in React and Redux for building interactive and visually appealing user interfaces. Highly skilled in Node.js and Express.js to create robust backend APIs and server-side applications. Proficient in MongoDB and Mongoose for efficient database management.
 A versatile developer who excels in delivering top-tier web solutions across the full software development lifecycle, adept at finding solutions and excellent at communicating things.
+  Outside of coding, I am also an avid reader, football player, and a traveler!
 </h4>
 
 ---
