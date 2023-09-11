@@ -8,7 +8,6 @@
 
 <img src="https://i.ibb.co/NV3Y5Hg/stable-diffusion-xl-2.jpg" alt="stable-diffusion-xl-1" alt="img"/>
 
-<br/>
 
 # 💫 About Me:
 
